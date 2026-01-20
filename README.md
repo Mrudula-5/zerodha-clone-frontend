@@ -37,7 +37,6 @@ frontend/
 │ │ ├── about/
 │ │ ├── pricing/
 │ │ ├── products/
-│ │ ├── signup/
 │ │ └── support/
 │ ├── Navbar.js
 │ ├── Footer.js
@@ -64,4 +63,5 @@ npm install
 npm start
 
 5.Open in browser:
+
 http://localhost:3000
